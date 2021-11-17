@@ -14,7 +14,6 @@ const StyledPreviewDiv = styled.div`
 `;
 
 export default function Previewdiv(props) {
-  const renderer = new marked.Renderer();
   return (
     <StyledPreviewDiv
       id="preview"

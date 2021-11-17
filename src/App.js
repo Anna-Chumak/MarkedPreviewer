@@ -1,6 +1,6 @@
 import "./App.css";
 import { placeholder } from "./utility/text";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import styled from "styled-components";
 import Textarea from "./components/Textarea";
 import Previewdiv from "./components/Previewdiv";
